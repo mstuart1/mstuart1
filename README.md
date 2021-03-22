@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mstuart1
+- 👋 Hi, I’m Michelle Stuart.
 - 👀 I’m interested in everything under the sun.
 - 🌱 I’m currently learning about css and React apps.
 
