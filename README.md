@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michelle Stuart.
-- 👀 I’m interested in everything under the sun.
+- 👀 Check out my snippets for examples of my work;  my actual code base is in a private gitlab.
 - 🌱 I’m currently a full stack developer mostly using React and ArcGIS Maps SDK for JavaScript.
 
 <!---
