@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michelle Stuart.
+- 👋 Hi, you can view links to websites I have built [here](https://mstuart1.github.io/examples/).
 - 👀 Check out my snippets for examples of my work;  my actual code base is in a private gitlab.
 - 🌱 I’m currently a full stack developer mostly using React and ArcGIS Maps SDK for JavaScript.
 
