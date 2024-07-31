@@ -1,6 +1,9 @@
-- 👋 Hi, you can view links to websites I have built [here](https://mstuart1.github.io/examples/).
-- 👀 Check out my snippets for examples of my work;  my actual code base is in a private gitlab.
-- 🌱 I’m currently a full stack developer mostly using React and ArcGIS Maps SDK for JavaScript.
+# Hello, I'm Michelle, nice to meet you! 👋
+- 🌱 I am currently working as a Full Stack Software Engineer.
+- 👀 You can view links to websites I have built [here](https://mstuart1.github.io/examples/).
+- 📖 I code using Vite, NextJS, Prisma, Sequelize, React, JavaScript, SQL, HTML, CSS, and the ArcGIS Maps SDK for JavaScript.
+- 🔒 My actual codebase is in private repositories on my employer's proprietary site.
+
 
 <!---
 mstuart1/mstuart1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
