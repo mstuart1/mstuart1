@@ -13,8 +13,8 @@ I'm a Full Stack Software Engineer with over five years of experience developing
 
 ## 📌 Featured Projects
 
-- [NJ Restoration Tool Suite](https://github.com/mstuart1/nj-restoration-tool-suite): A suite of React and ArcGIS-based tools for environmental planning.
-- [NJTicks4Science](https://github.com/mstuart1/njticks4science): A citizen science portal with real-time data handling.
+- [NJ Restoration Tool Suite](https://njrestors.rutgers.edu): A suite of React and ArcGIS-based tools for environmental planning.
+- [NJTicks4Science](https://ticks.rutgers.edu): A citizen science portal with real-time data handling.
 
 ## 🌱 More About Me
 
