@@ -22,4 +22,8 @@ I'm a Full Stack Software Engineer with over five years of experience developing
 - I'm based in New Jersey.
 - I'm passionate about mentoring and have led workshops on integrating GitHub into development workflows.
 
+## 🤖 This profile is eclectic
+- For work, we use a private version control system, so almost everything here is from me exploring and messing around with code.
+- There are some old work projects that I have made a copy of here, but the code may be out-dated.
+
 📫 [LinkedIn](https://www.linkedin.com/in/michelle-stuart-220ab940)
