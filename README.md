@@ -1,12 +1,25 @@
-# Hello, I'm Michelle, nice to meet you! 👋
-- 🌱 I am currently working as a Full Stack Software Engineer.
-- 👀 You can view links to websites I have built [here](https://mstuart1.github.io/examples/).
-- 📖 I code using Vite, NextJS, Prisma, Sequelize, React, JavaScript, SQL, HTML, CSS, and the ArcGIS Maps SDK for JavaScript.
-- 🔒 My actual codebase is in private repositories on my employer's proprietary site.
+# 👋 Hi, I'm Michelle Stuart
 
-## You can reach me on 🎒 [LinkedIn](https://www.linkedin.com/in/michelle-stuart-220ab940/)
+I'm a Full Stack Software Engineer with over five years of experience developing scalable, data-rich web applications. My expertise lies in React, TypeScript, Tailwind CSS, REST APIs, and GitHub-based workflows. I'm passionate about creating user-friendly solutions that connect people and data in meaningful ways.
 
-<!---
-mstuart1/mstuart1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Technologies & Tools
+
+- **Frontend**: React, Next.js, Vite, Tailwind CSS
+- **Backend**: Node.js, Express, Prisma, Sequelize
+- **Languages**: JavaScript, TypeScript, SQL, HTML, CSS
+- **GIS**: ArcGIS Maps SDK for JavaScript
+- **Testing**: Mocha
+- **Version Control**: Git, GitHub
+
+## 📌 Featured Projects
+
+- [NJ Restoration Tool Suite](https://github.com/mstuart1/nj-restoration-tool-suite): A suite of React and ArcGIS-based tools for environmental planning.
+- [NJTicks4Science](https://github.com/mstuart1/njticks4science): A citizen science portal with real-time data handling.
+
+## 🌱 More About Me
+
+- I enjoy crocheting and gardening.
+- I'm based in New Jersey.
+- I'm passionate about mentoring and have led workshops on integrating GitHub into development workflows.
+
+📫 [LinkedIn](https://www.linkedin.com/in/michelle-stuart-220ab940)
