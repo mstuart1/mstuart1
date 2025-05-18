@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michelle Stuart
 
-I'm a Full Stack Software Engineer with over five years of experience developing scalable, data-rich web applications. My expertise lies in React, TypeScript, Tailwind CSS, REST APIs, and GitHub-based workflows. I'm passionate about creating user-friendly solutions that connect people and data in meaningful ways.
+I'm a Full Stack Software Engineer with over five years of experience developing scalable, data-rich web applications. My expertise lies in React, TypeScript, Tailwind CSS, REST APIs, and GitHub-based workflows. I'm passionate about creating user-friendly solutions that connect people and data in meaningful ways.  Check out my [portfolio](https://mstuart1.github.io/portfolio).
 
 ## 🔧 Technologies & Tools
 
